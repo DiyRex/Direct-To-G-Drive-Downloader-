@@ -1,2 +1,2 @@
-# Direct-To-G-Drive-Downloader-
-Download Direct Files Into Your G-Drive Using Colab
+# Direct-To-G-Drive-Uploader-
+Upload Direct Files Into Your G-Drive Using Colab
